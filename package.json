@@ -1,0 +1,12 @@
+{
+  "name": "gestione-chiavi",
+  "version": "1.0.0",
+  "description": "Gestione chiavi in magazzino",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
